@@ -1,0 +1,3750 @@
+[
+    {
+        "shlib": "libgslcblas.so.0.0.0",
+        "package": "libgslcblas0",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgslcblas0"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libtbb.so.2"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libfreetype.so.6.18.1",
+        "package": "libfreetype6",
+        "headers": "libfreetype-dev",
+        "source": "freetype",
+        "version": "2.11.1+dfsg-1ubuntu0.1",
+        "url": "https://packages.ubuntu.com/jammy/libfreetype6"
+    },
+    {
+        "shlib": "libcairo.so.2.11600.0",
+        "package": "libcairo2",
+        "headers": "libcairo2-dev",
+        "source": "cairo",
+        "version": "1.16.0-5ubuntu2",
+        "url": "https://packages.ubuntu.com/jammy/libcairo2"
+    },
+    {
+        "shlib": "libX11.so.6.4.0",
+        "package": "libx11-6",
+        "headers": "libx11-dev",
+        "source": "libx11",
+        "version": "2:1.7.5-1",
+        "url": "https://packages.ubuntu.com/jammy/libx11-6"
+    },
+    {
+        "shlib": "libjpeg.so.8.2.2",
+        "package": "libjpeg-turbo8",
+        "headers": "libjpeg-turbo8-dev",
+        "source": "libjpeg-turbo",
+        "version": "2.1.2-0ubuntu1",
+        "url": "https://packages.ubuntu.com/jammy/libjpeg-turbo8"
+    },
+    {
+        "shlib": "libharfbuzz-icu.so.0.20704.0",
+        "package": "libharfbuzz-icu0",
+        "headers": "libharfbuzz-dev",
+        "source": "harfbuzz",
+        "version": "2.7.4-1ubuntu3.1",
+        "url": "https://packages.ubuntu.com/jammy/libharfbuzz-icu0"
+    },
+    {
+        "shlib": "libharfbuzz.so.0.20704.0",
+        "package": "libharfbuzz0b",
+        "headers": "libharfbuzz-dev",
+        "source": "harfbuzz",
+        "version": "2.7.4-1ubuntu3.1",
+        "url": "https://packages.ubuntu.com/jammy/libharfbuzz0b"
+    },
+    {
+        "shlib": "libicuuc.so.70.1",
+        "package": "libicu70",
+        "headers": "libicu-dev",
+        "source": "icu",
+        "version": "70.1-2",
+        "url": "https://packages.ubuntu.com/jammy/libicu70"
+    },
+    {
+        "shlib": "libtiff.so.5.7.0",
+        "package": "libtiff5",
+        "headers": "libtiff-dev",
+        "source": "tiff",
+        "version": "4.3.0-6ubuntu0.3",
+        "url": "https://packages.ubuntu.com/jammy/libtiff5"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libopenbabel.so.7.0.0",
+        "package": "libopenbabel7",
+        "headers": "libopenbabel-dev",
+        "source": "openbabel",
+        "version": "3.1.1+dfsg-6ubuntu5",
+        "url": "https://packages.ubuntu.com/jammy/libopenbabel7"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libsz.so.2.0.1",
+        "package": "libsz2",
+        "headers": "libaec-dev",
+        "source": "libaec",
+        "version": "1.0.6-1",
+        "url": "https://packages.ubuntu.com/jammy/libsz2"
+    },
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libxml2.so.2.9.13",
+        "package": "libxml2",
+        "headers": "libxml2-dev",
+        "source": "libxml2",
+        "version": "2.9.13+dfsg-1ubuntu0.2",
+        "url": "https://packages.ubuntu.com/jammy/libxml2"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgsl.so.27.0.0",
+        "package": "libgsl27",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgsl27"
+    },
+
+    {
+        "shlib": "libsz.so.2.0.1",
+        "package": "libsz2",
+        "headers": "libaec-dev",
+        "source": "libaec",
+        "version": "1.0.6-1",
+        "url": "https://packages.ubuntu.com/jammy/libsz2"
+    },
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgsl.so.27.0.0",
+        "package": "libgsl27",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgsl27"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libcrypto.so.3",
+        "package": "libssl3",
+        "headers": "libssl-dev",
+        "source": "openssl",
+        "version": "3.0.2-0ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libssl3"
+    },
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libsz.so.2.0.1",
+        "package": "libsz2",
+        "headers": "libaec-dev",
+        "source": "libaec",
+        "version": "1.0.6-1",
+        "url": "https://packages.ubuntu.com/jammy/libsz2"
+    },
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgtkmm-2.4.so.1.1.0",
+        "package": "libgtkmm-2.4-1v5",
+        "headers": "libgtkmm-2.4-dev",
+        "source": "gtkmm2.4",
+        "version": "1:2.24.5-4ubuntu3",
+        "url": "https://packages.ubuntu.com/jammy/libgtkmm-2.4-1v5"
+    },
+    {
+        "shlib": "libatkmm-1.6.so.1.1.0",
+        "package": "libatkmm-1.6-1v5",
+        "headers": "libatkmm-1.6-dev",
+        "source": "atkmm1.6",
+        "version": "2.28.2-1build1",
+        "url": "https://packages.ubuntu.com/jammy/libatkmm-1.6-1v5"
+    },
+    {
+        "shlib": "libgtk-x11-2.0.so.0.2400.33",
+        "package": "libgtk2.0-0",
+        "headers": "libgtk2.0-dev",
+        "source": "gtk+2.0",
+        "version": "2.24.33-2ubuntu2",
+        "url": "https://packages.ubuntu.com/jammy/libgtk2.0-0"
+    },
+    {
+        "shlib": "libgdkmm-2.4.so.1.1.0",
+        "package": "libgtkmm-2.4-1v5",
+        "headers": "libgtkmm-2.4-dev",
+        "source": "gtkmm2.4",
+        "version": "1:2.24.5-4ubuntu3",
+        "url": "https://packages.ubuntu.com/jammy/libgtkmm-2.4-1v5"
+    },
+    {
+        "shlib": "libpangomm-1.4.so.1.0.30",
+        "package": "libpangomm-1.4-1v5",
+        "headers": "libpangomm-1.4-dev",
+        "source": "pangomm",
+        "version": "2.46.2-1",
+        "url": "https://packages.ubuntu.com/jammy/libpangomm-1.4-1v5"
+    },
+    {
+        "shlib": "libglibmm-2.4.so.1.3.0",
+        "package": "libglibmm-2.4-1v5",
+        "headers": "libglibmm-2.4-dev",
+        "source": "glibmm2.4",
+        "version": "2.66.2-2",
+        "url": "https://packages.ubuntu.com/jammy/libglibmm-2.4-1v5"
+    },
+    {
+        "shlib": "libsigc-2.0.so.0.0.0",
+        "package": "libsigc++-2.0-0v5",
+        "headers": "libsigc++-2.0-dev",
+        "source": "libsigc++",
+        "version": "2.10.4-2ubuntu3",
+        "url": "https://packages.ubuntu.com/jammy/libsigc++-2.0-0v5"
+    },
+    {
+        "shlib": "libgdk-x11-2.0.so.0.2400.33",
+        "package": "libgtk2.0-0",
+        "headers": "libgtk2.0-dev",
+        "source": "gtk+2.0",
+        "version": "2.24.33-2ubuntu2",
+        "url": "https://packages.ubuntu.com/jammy/libgtk2.0-0"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgsl.so.27.0.0",
+        "package": "libgsl27",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgsl27"
+    },
+
+    {
+        "shlib": "libgsl.so.27.0.0",
+        "package": "libgsl27",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgsl27"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgsl.so.27.0.0",
+        "package": "libgsl27",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgsl27"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgmp.so.10.4.1",
+        "package": "libgmp10",
+        "headers": "libgmp-dev",
+        "source": "gmp",
+        "version": "2:6.2.1+dfsg-3ubuntu1",
+        "url": "https://packages.ubuntu.com/jammy/libgmp10"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libmpi.so.40.30.2",
+        "package": "libopenmpi3",
+        "source": "openmpi",
+        "version": "4.1.2-2ubuntu1",
+        "url": "https://packages.ubuntu.com/jammy/libopenmpi3"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libmvec.so.1",
+        "package": "libc6",
+        "headers": "libc6-dev",
+        "source": "glibc",
+        "version": "2.35-0ubuntu3.1",
+        "url": "https://packages.ubuntu.com/jammy/libc6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libgsl.so.27.0.0",
+        "package": "libgsl27",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgsl27"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libfftw3.so.3.5.8",
+        "package": "libfftw3-double3",
+        "headers": "libfftw3-dev",
+        "source": "fftw3",
+        "version": "3.3.8-2ubuntu8",
+        "url": "https://packages.ubuntu.com/jammy/libfftw3-double3"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgsl.so.27.0.0",
+        "package": "libgsl27",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgsl27"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libsz.so.2.0.1",
+        "package": "libsz2",
+        "headers": "libaec-dev",
+        "source": "libaec",
+        "version": "1.0.6-1",
+        "url": "https://packages.ubuntu.com/jammy/libsz2"
+    },
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgmp.so.10.4.1",
+        "package": "libgmp10",
+        "headers": "libgmp-dev",
+        "source": "gmp",
+        "version": "2:6.2.1+dfsg-3ubuntu1",
+        "url": "https://packages.ubuntu.com/jammy/libgmp10"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libgsl.so.27.0.0",
+        "package": "libgsl27",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgsl27"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgsl.so.27.0.0",
+        "package": "libgsl27",
+        "headers": "libgsl-dev",
+        "source": "gsl",
+        "version": "2.7.1+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/libgsl27"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libjpeg.so.8.2.2",
+        "package": "libjpeg-turbo8",
+        "headers": "libjpeg-turbo8-dev",
+        "source": "libjpeg-turbo",
+        "version": "2.1.2-0ubuntu1",
+        "url": "https://packages.ubuntu.com/jammy/libjpeg-turbo8"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libxml2.so.2.9.13",
+        "package": "libxml2",
+        "headers": "libxml2-dev",
+        "source": "libxml2",
+        "version": "2.9.13+dfsg-1ubuntu0.2",
+        "url": "https://packages.ubuntu.com/jammy/libxml2"
+    },
+    {
+        "shlib": "libgmp.so.10.4.1",
+        "package": "libgmp10",
+        "headers": "libgmp-dev",
+        "source": "gmp",
+        "version": "2:6.2.1+dfsg-3ubuntu1",
+        "url": "https://packages.ubuntu.com/jammy/libgmp10"
+    },
+    {
+        "shlib": "libglpk.so.40.3.1",
+        "package": "libglpk40",
+        "headers": "libglpk-dev",
+        "source": "glpk",
+        "version": "5.0-1",
+        "url": "https://packages.ubuntu.com/jammy/libglpk40"
+    },
+    {
+        "shlib": "libgfortran.so.5.0.0",
+        "package": "libgfortran5",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgfortran5"
+    },
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libsz.so.2.0.1",
+        "package": "libsz2",
+        "headers": "libaec-dev",
+        "source": "libaec",
+        "version": "1.0.6-1",
+        "url": "https://packages.ubuntu.com/jammy/libsz2"
+    },
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libsz.so.2.0.1",
+        "package": "libsz2",
+        "headers": "libaec-dev",
+        "source": "libaec",
+        "version": "1.0.6-1",
+        "url": "https://packages.ubuntu.com/jammy/libsz2"
+    },
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libgfortran.so.5.0.0",
+        "package": "libgfortran5",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgfortran5"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libpng16.so.16.37.0",
+        "package": "libpng16-16",
+        "headers": "libpng-dev",
+        "source": "libpng1.6",
+        "version": "1.6.37-3build5",
+        "url": "https://packages.ubuntu.com/jammy/libpng16-16"
+    },
+
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libtbb.so.2"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcrypto.so.3",
+        "package": "libssl3",
+        "headers": "libssl-dev",
+        "source": "openssl",
+        "version": "3.0.2-0ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libssl3"
+    },
+    {
+        "shlib": "libcurl-gnutls.so.4.7.0",
+        "package": "libcurl3-gnutls",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl3-gnutls"
+    },
+    {
+        "shlib": "libsz.so.2.0.1",
+        "package": "libsz2",
+        "headers": "libaec-dev",
+        "source": "libaec",
+        "version": "1.0.6-1",
+        "url": "https://packages.ubuntu.com/jammy/libsz2"
+    },
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libsbml.so.5.19.0",
+        "package": "libsbml5",
+        "headers": "libsbml5-dev",
+        "source": "libsbml",
+        "version": "5.19.0+dfsg-1ubuntu2",
+        "url": "https://packages.ubuntu.com/jammy/libsbml5"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "librsvg-2.so.2.48.0",
+        "package": "librsvg2-2",
+        "headers": "librsvg2-dev",
+        "source": "librsvg",
+        "version": "2.52.5+dfsg-3",
+        "url": "https://packages.ubuntu.com/jammy/librsvg2-2"
+    },
+    {
+        "shlib": "libgobject-2.0.so.0.7200.4",
+        "package": "libglib2.0-0",
+        "headers": "libglib2.0-dev",
+        "source": "glib2.0",
+        "version": "2.72.4-0ubuntu1",
+        "url": "https://packages.ubuntu.com/jammy/libglib2.0-0"
+    },
+    {
+        "shlib": "libcairo.so.2.11600.0",
+        "package": "libcairo2",
+        "headers": "libcairo2-dev",
+        "source": "cairo",
+        "version": "1.16.0-5ubuntu2",
+        "url": "https://packages.ubuntu.com/jammy/libcairo2"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "libssl.so.3",
+        "package": "libssl3",
+        "headers": "libssl-dev",
+        "source": "openssl",
+        "version": "3.0.2-0ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libssl3"
+    },
+    {
+        "shlib": "libcrypto.so.3",
+        "package": "libssl3",
+        "headers": "libssl-dev",
+        "source": "openssl",
+        "version": "3.0.2-0ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libssl3"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+    {
+        "shlib": "libgomp.so.1.0.0",
+        "package": "libgomp1",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgomp1"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libtbb.so.2"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libtbb.so.2"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libcurl.so.4.7.0",
+        "package": "libcurl4",
+        "headers": "libcurl4-gnutls-dev",
+        "source": "curl",
+        "version": "7.81.0-1ubuntu1.7",
+        "url": "https://packages.ubuntu.com/jammy/libcurl4"
+    },
+    {
+        "shlib": "libz.so.1.2.11",
+        "package": "zlib1g",
+        "headers": "zlib1g-dev",
+        "source": "zlib",
+        "version": "1:1.2.11.dfsg-2ubuntu9.2",
+        "url": "https://packages.ubuntu.com/jammy/zlib1g"
+    },
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "liblapack.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libblas.so.3",
+        "package": "libopenblas0-pthread",
+        "headers": "libopenblas-pthread-dev",
+        "source": "openblas",
+        "version": "0.3.20+ds-1",
+        "url": "https://packages.ubuntu.com/jammy/libopenblas0-pthread"
+    },
+    {
+        "shlib": "libgfortran.so.5.0.0",
+        "package": "libgfortran5",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libgfortran5"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+    },
+
+    {
+        "shlib": "libstdc++.so.6.0.30",
+        "package": "libstdc++6",
+        "source": "gcc",
+        "version": "12.1.0-2ubuntu1~22.04",
+        "url": "https://packages.ubuntu.com/jammy/libstdc++6"
+}]
